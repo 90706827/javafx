@@ -1,0 +1,1 @@
+VM添加：--module-path ${JAVA_HOME_FX} --add-modules javafx.swt,javafx.base,javafx.media,javafx.controls,javafx.fxml,javafx.graphics

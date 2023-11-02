@@ -26,3 +26,9 @@ U
 %.mvn/wrapper/maven-wrapper.properties,3/2/32e074f71d16c1e88ac02aa83592ca6ad1fd98a8
 w
 G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8/6/863e0292fd7e9b3e74dafd6cc01f73ba76346482
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+r
+Bsrc/main/java/com/qiangke/javafx/example/AnchorPaneController.java,c/2/c20d2eb3716f4d6ddc375ed3cc7c744a442d5294
+s
+Csrc/main/java/com/qiangke/javafx/example/AnchorPaneApplication.java,9/5/95dcbef6f48c0c7ba8d31d044c13592f9485c116
